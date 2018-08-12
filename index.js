@@ -4,5 +4,5 @@ function happyHolidays(){
 }
 // Second test - with parameter
 function happyHolidaysTo(name){
-  return `Happy holidays, ${name}`
+  return `Happy holidays, ${name}!`
 }
