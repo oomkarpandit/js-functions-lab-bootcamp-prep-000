@@ -7,6 +7,6 @@ function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`
 }
 //Third Test - with 2 parameters
-function happyHolidaysTo(holiday,name){
+function happyHolidayTo(holiday,name){
   return `Happy ${holiday}, ${name}!`
 }
